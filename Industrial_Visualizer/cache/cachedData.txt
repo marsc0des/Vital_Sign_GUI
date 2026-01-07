@@ -1,0 +1,4 @@
+xWR6843
+Vital Signs with People Tracking
+C:/Users/mabra/ti/radar_toolbox_3_30_00_06/source/ti/examples/Industrial_and_Personal_Electronics/Vital_Signs/Vital_Signs_With_People_Tracking/chirp_configs/vital_signs_AOP_2m.cfg
+False
